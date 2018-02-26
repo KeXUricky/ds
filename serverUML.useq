@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.1.11" icons="true" automaticImage="JPEG">  
+  <object id="1" language="java" name="ds.TimerTaskTest" project="ds" file="/ds/src/ds/TimerTaskTest.java" 
+    binary="false" label="timerTaskTest" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="478" y="0"/>  
+  </object>  
+  <object id="2" language="java" name="ds.ClientConnection" project="ds" file="/ds/src/ds/ClientConnection.java" 
+    binary="false" label="clientConnection4" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="69" y="0"/>    
+    <execution id="3">      
+      <position height="111" width="119" x="116" y="113"/>    
+    </execution>    
+    <execution id="7">      
+      <position height="21" width="0" x="0" y="182"/>    
+    </execution>  
+  </object>  
+  <object id="8" language="java" name="ds.Service" project="ds" file="/ds/src/ds/Service.java" binary="false" 
+    label="service" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="478" y="0"/>    
+    <execution id="9">      
+      <position height="63" width="66" x="239" y="185"/>    
+    </execution>    
+    <execution id="12">      
+      <position height="21" width="66" x="239" y="120"/>    
+    </execution>  
+  </object>  
+  <object id="13" language="java" name="ds.ServerState" project="ds" file="/ds/src/ds/ServerState.java" binary="false" 
+    label="serverState" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="478" y="0"/>    
+    <execution id="14">      
+      <position height="90" width="91" x="309" y="150"/>    
+    </execution>  
+  </object>  
+  <object id="19" language="java" name="ds.ClientConnection" project="ds" file="/ds/src/ds/ClientConnection.java" 
+    binary="false" label="clientConnection5" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="18">      
+      <position height="21" width="0" x="0" y="198"/>    
+    </execution>  
+  </object>  
+  <object id="20" language="java" name="ds.ServerConnection" project="ds" file="/ds/src/ds/ServerConnection.java" 
+    binary="false" label="serverConnection" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="478" y="0"/>    
+    <execution id="16">      
+      <position height="21" width="125" x="404" y="171"/>    
+    </execution>  
+  </object>  
+  <object id="21" language="java" name="ds.Server" project="ds" file="/ds/src/ds/Server.java" binary="false" 
+    label="server" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="478" y="0"/>    
+    <execution id="11">      
+      <position height="21" width="61" x="533" y="206"/>    
+    </execution>    
+    <execution id="5">      
+      <position height="21" width="61" x="533" y="134"/>    
+    </execution>    
+    <execution id="22">      
+      <position height="63" width="61" x="533" y="102"/>    
+    </execution>    
+    <execution id="25">      
+      <position height="21" width="61" x="533" y="283"/>    
+    </execution>  
+  </object>  
+  <object id="26" language="java" name="ds.SendServerConnection" project="ds" 
+    file="/ds/src/ds/SendServerConnection.java" binary="false" label="sendServerConnection" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="478" y="0"/>    
+    <execution id="24">      
+      <position height="21" width="154" x="598" y="123"/>    
+    </execution>    
+    <execution id="27">      
+      <position height="21" width="154" x="598" y="201"/>    
+    </execution>    
+    <execution id="28">      
+      <position height="21" width="154" x="598" y="354"/>    
+    </execution>  
+  </object>  
+  <object id="29" language="java" name="ds.ReceiveServerConnection" project="ds" 
+    file="/ds/src/ds/ReceiveServerConnection.java" binary="false" label="receiveServerConnection" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="478" y="0"/>    
+    <execution id="30">      
+      <position height="63" width="170" x="756" y="180"/>    
+    </execution>    
+    <execution id="32">      
+      <position height="75" width="170" x="756" y="262"/>    
+    </execution>    
+    <execution id="36">      
+      <position height="72" width="170" x="756" y="135"/>    
+    </execution>  
+  </object>  
+  <object id="41" language="java" name="ds.ClientConnection" project="ds" file="/ds/src/ds/ClientConnection.java" 
+    binary="false" label="clientConnection3" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="40">      
+      <position height="21" width="0" x="0" y="165"/>    
+    </execution>  
+  </object>  
+  <object id="42" language="java" name="ds.ClientConnection" project="ds" file="/ds/src/ds/ClientConnection.java" 
+    binary="false" label="clientConnection2" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="35">      
+      <position height="21" width="0" x="0" y="295"/>    
+    </execution>  
+  </object>  
+  <object id="43" language="java" name="ds.PredifinedUser" project="ds" file="/ds/src/ds/PredifinedUser.java" 
+    binary="false" label="predifinedUser" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="478" y="0"/>    
+    <execution id="38">      
+      <position height="21" width="108" x="930" y="156"/>    
+    </execution>  
+  </object>  
+  <object id="44" language="java" name="ds.Message" project="ds" file="/ds/src/ds/Message.java" binary="false" 
+    label="message" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="478" y="0"/>    
+    <execution id="45">      
+      <position height="63" width="75" x="1042" y="333"/>    
+    </execution>  
+  </object>  
+  <object id="47" language="java" name="ds.LockRoomID" project="ds" file="/ds/src/ds/LockRoomID.java" binary="false" 
+    label="lockRoomID" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="478" y="0"/>    
+    <execution id="48">      
+      <position height="110" width="95" x="1121" y="178"/>    
+    </execution>    
+    <execution id="51">      
+      <position height="79" width="95" x="1121" y="295"/>    
+    </execution>  
+  </object>  
+  <object id="56" language="java" name="ds.ClientConnection" project="ds" file="/ds/src/ds/ClientConnection.java" 
+    binary="false" label="clientConnection7" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="55">      
+      <position height="21" width="0" x="0" y="332"/>    
+    </execution>  
+  </object>  
+  <object id="57" language="java" name="ds.LockIdentity" project="ds" file="/ds/src/ds/LockIdentity.java" binary="false" 
+    label="lockIdentity" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="478" y="0"/>    
+    <execution id="50">      
+      <position height="68" width="92" x="1220" y="199"/>    
+    </execution>  
+  </object>  
+  <object id="60" language="java" name="ds.ClientConnection" project="ds" file="/ds/src/ds/ClientConnection.java" 
+    binary="false" label="clientConnection8" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="59">      
+      <position height="21" width="0" x="0" y="225"/>    
+    </execution>  
+  </object>  
+  <object id="61" language="java" name="ds.FailureHandler" project="ds" file="/ds/src/ds/FailureHandler.java" 
+    binary="false" label="failureHandler" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="478" y="0"/>  
+  </object>  
+  <object id="62" language="java" name="ds.CmdLineArgs" project="ds" file="/ds/src/ds/CmdLineArgs.java" binary="false" 
+    label="cmdLineArgs" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="478" y="0"/>    
+    <execution id="63">      
+      <position height="21" width="100" x="1425" y="202"/>    
+    </execution>    
+    <execution id="53">      
+      <position height="21" width="100" x="1425" y="316"/>    
+    </execution>  
+  </object>  
+  <object id="64" language="java" name="ds.ClientMessageReader" project="ds" file="/ds/src/ds/ClientMessageReader.java" 
+    binary="false" label="clientMessageReader" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="478" y="0"/>    
+    <execution id="65">      
+      <position height="70" width="148" x="1529" y="181"/>    
+    </execution>  
+  </object>  
+  <object id="69" language="java" name="ds.ClientConnection" project="ds" file="/ds/src/ds/ClientConnection.java" 
+    binary="false" label="clientConnection" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="68">      
+      <position height="21" width="0" x="0" y="209"/>    
+    </execution>  
+  </object>  
+  <object id="70" language="java" name="ds.ChatRoom" project="ds" file="/ds/src/ds/ChatRoom.java" binary="false" 
+    label="chatRoom" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="478" y="0"/>    
+    <execution id="71">      
+      <position height="87" width="82" x="1681" y="99"/>    
+    </execution>  
+  </object>  
+  <object id="75" language="java" name="ds.ClientConnection" project="ds" file="/ds/src/ds/ClientConnection.java" 
+    binary="false" label="clientConnection1" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="74">      
+      <position height="21" width="0" x="0" y="144"/>    
+    </execution>  
+  </object>  
+  <message id="4" asynchronous="false">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="5"/>  
+  </message>  
+  <message id="6" operation="ClientConnection(javax.net.ssl.SSLSocket,ds.Server)" asynchronous="false">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="7"/>  
+  </message>  
+  <message id="10" asynchronous="false">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="11"/>  
+  </message>  
+  <message id="15" asynchronous="false">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="16"/>  
+  </message>  
+  <message id="17" operation="jsonMessage(org.json.simple.JSONObject):org.json.simple.JSONObject" asynchronous="false">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="18"/>  
+  </message>  
+  <message id="23" asynchronous="false">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="24"/>  
+  </message>  
+  <message id="31" asynchronous="false">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="27"/>  
+  </message>  
+  <message id="33" asynchronous="false">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="25"/>  
+  </message>  
+  <message id="34" operation="findServer(java.lang.String):ds.Server" asynchronous="false">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="35"/>  
+  </message>  
+  <message id="37" asynchronous="false">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="38"/>  
+  </message>  
+  <message id="39" operation="getMessageQueue():java.util.concurrent.BlockingQueue&lt;Message&gt;" asynchronous="false">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="40"/>  
+  </message>  
+  <message id="46" asynchronous="false">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="28"/>  
+  </message>  
+  <message id="49" asynchronous="false">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="50"/>  
+  </message>  
+  <message id="52" asynchronous="false">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="53"/>  
+  </message>  
+  <message id="54" operation="roomChange(java.lang.String,java.lang.String,java.lang.String):org.json.simple.JSONObject" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="55"/>  
+  </message>  
+  <message id="58" operation="route(java.lang.String,java.lang.String,java.lang.String):org.json.simple.JSONObject" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="59"/>  
+  </message>  
+  <message id="66" asynchronous="false">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="63"/>  
+  </message>  
+  <message id="67" operation="run():void" asynchronous="false">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="68"/>  
+  </message>  
+  <message id="72" asynchronous="false">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="12"/>  
+  </message>  
+  <message id="73" operation="serverChange():org.json.simple.JSONObject" asynchronous="false">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="74"/>  
+  </message>
+</sequence-diagram>
